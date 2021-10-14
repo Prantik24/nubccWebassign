@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+#welcome {
+    color: rgba(43, 255, 0, 0.884);
+    font-size: 40px;
+}
+
+.info {
+    background-color: rgb(184, 68, 68);
+    color: white;
+    padding: 20px;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
+
+
+.info span {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.info .info-header {
+    color: rgba(74, 22, 196, 0.76);
+}
