@@ -1,0 +1,76 @@
+h1 {
+    color: rgba(27, 2, 39, 0.836);
+}
+
+#welcome {
+    color: rgba(255, 115, 0, 0.884);
+    font-size: 40px;
+}
+
+.info {
+    background-color: rgb(184, 68, 68);
+    color: white;
+    padding: 20px;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
+
+
+.info span {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.info .info-header {
+    color: rgba(74, 22, 196, 0.76);
+    text-align: center;
+}
+.container {
+    margin-top: 100px;
+    margin-bottom: 100px; ;
+    text-align: center;
+  }
+  
+  #heading {
+    color: rgb(12, 34, 34);
+    font-size: 35px;
+  }
+  
+  #button1 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px;
+    background-color: rgba(117, 1, 36, 0.705);
+    cursor: pointer;
+    border-color: rgb(87, 63, 42);
+  }
+  
+  #button2 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px;
+    background-color: rgb(59, 84, 228);
+    cursor: pointer;
+    border-color: rgba(19, 1, 18, 0.726);
+  }
+  
+  #orderedDrink {
+    color: saddlebrown;
+    font-size: large;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
